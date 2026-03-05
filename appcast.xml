@@ -6,6 +6,18 @@
     <description>Capnot changelog</description>
     <language>en</language>
     <item>
+      <title>Version 0.0.6</title>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.0.6</sparkle:shortVersionString>
+      <pubDate>Thu, 05 Mar 2026 17:08:50 +0000</pubDate>
+      <enclosure
+        url="https://github.com/tinyshipsailors/capnot.app/releases/download/v0.0.6/Capnot-v0.0.6.dmg"
+        sparkle:edSignature="Lnq5dEaTZLO7kkJ+7EUIgzdUjzRdgtkGLm1nOCXcUQcG1u7TJUXfOzCtSEcfcbU7EoV8fKTjNJaHMrVmqT5+Bw=="
+        length="4111266"
+        type="application/octet-stream"
+      />
+    </item>
+    <item>
       <title>Version 0.0.5</title>
       <sparkle:version>6</sparkle:version>
       <sparkle:shortVersionString>0.0.5</sparkle:shortVersionString>
