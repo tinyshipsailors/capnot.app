@@ -6,6 +6,19 @@
     <description>Capnot changelog</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.0</title>
+      <description><![CDATA[<p><strong>What's New</strong></p><ul><li>Try Capnot free for 7 days — a new trial lets you use every feature before buying.</li><li>Redesigned keyboard-shortcut picker: each key shows as its own keycap, modifier keys (including ⌘) are captured correctly, and a shortcut can no longer be assigned to two features at once.</li><li>Set caption, subtitle, and bubble font sizes up to 100pt — better for large monitors and TVs.</li><li>New "Reset to Default" button on every settings page.</li><li>Clearer permission prompts: live captions and the magnifier now tell you when microphone, speech-recognition, or Screen Recording access is missing, with a one-tap link to System Settings.</li><li>Smoother laser-pointer trail.</li></ul><p><strong>Bug Fixes</strong></p><ul><li>Settings resets now take effect immediately.</li><li>Fixed caption and subtitle bubbles occasionally freezing at the wrong height or hanging when text changed.</li><li>Multi-display fixes: the toolbar and captions behave correctly across screens, and drawings no longer shift when you connect or disconnect a display.</li><li>Various performance and stability improvements.</li></ul>]]></description>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <pubDate>Sun, 16 Aug 2026 04:09:03 +0000</pubDate>
+      <enclosure
+        url="https://github.com/tinyshipsailors/capnot.app/releases/download/v1.1.0/Capnot-v1.1.0.dmg"
+        sparkle:edSignature="8t/g+6LKF4JeP6sIUx3+pBp+UNPzIFsT79HhiKFXerLaGJzksRaF8N7/Tn7LBVXfk8k6P0ftwPAaQaSCGJu2Aw=="
+        length="5720287"
+        type="application/octet-stream"
+      />
+    </item>
+    <item>
       <title>Version 1.0.1</title>
       <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
