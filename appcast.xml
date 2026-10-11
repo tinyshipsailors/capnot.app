@@ -6,6 +6,19 @@
     <description>Capnot changelog</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.1</title>
+      <description><![CDATA[<p><strong>Bug Fixes</strong></p><ul><li>You can now enter a license key during your free trial: use the new "Enter Key" button under Settings → About → License, or "Enter License Key…" in the menu bar. Before this fix the key field only appeared after the trial ended.</li><li>License keys pasted with a trailing space or line break now activate correctly.</li></ul>]]></description>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <pubDate>Sun, 11 Oct 2026 05:01:16 +0000</pubDate>
+      <enclosure
+        url="https://github.com/tinyshipsailors/capnot.app/releases/download/v1.1.1/Capnot-v1.1.1.dmg"
+        sparkle:edSignature="AyRu/o4vrWmT/+7eYXwvwnQdtnfILy3I7d95OiyuIi96Ow4LeqQyFA1G257JaVoJVy77BV9pJv+RgGlFEGNDDw=="
+        length="5676117"
+        type="application/octet-stream"
+      />
+    </item>
+    <item>
       <title>Version 1.1.0</title>
       <description><![CDATA[<p><strong>What's New</strong></p><ul><li>Try Capnot free for 7 days — a new trial lets you use every feature before buying.</li><li>Redesigned keyboard-shortcut picker: each key shows as its own keycap, modifier keys (including ⌘) are captured correctly, and a shortcut can no longer be assigned to two features at once.</li><li>Set caption, subtitle, and bubble font sizes up to 100pt — better for large monitors and TVs.</li><li>New "Reset to Default" button on every settings page.</li><li>Clearer permission prompts: live captions and the magnifier now tell you when microphone, speech-recognition, or Screen Recording access is missing, with a one-tap link to System Settings.</li><li>Smoother laser-pointer trail.</li></ul><p><strong>Bug Fixes</strong></p><ul><li>Settings resets now take effect immediately.</li><li>Fixed caption and subtitle bubbles occasionally freezing at the wrong height or hanging when text changed.</li><li>Multi-display fixes: the toolbar and captions behave correctly across screens, and drawings no longer shift when you connect or disconnect a display.</li><li>Various performance and stability improvements.</li></ul>]]></description>
       <sparkle:version>4</sparkle:version>
