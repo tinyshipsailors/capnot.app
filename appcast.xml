@@ -6,6 +6,19 @@
     <description>Capnot changelog</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.2</title>
+      <description><![CDATA[<p><strong>Bug Fixes</strong></p><ul><li>Improved how the app is packaged for distribution, for a leaner and more secure download.</li></ul>]]></description>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <pubDate>Mon, 12 Oct 2026 11:52:59 +0000</pubDate>
+      <enclosure
+        url="https://github.com/tinyshipsailors/capnot.app/releases/download/v1.1.2/Capnot-v1.1.2.dmg"
+        sparkle:edSignature="/zDtSD+l3+zdxEdHTEufqPOwWqmKlBxJbfi3XlwwR5IJLd90vbSwOMLDzwDUAIUQoy2091NNZuuO7fS+DTO0DA=="
+        length="5680981"
+        type="application/octet-stream"
+      />
+    </item>
+    <item>
       <title>Version 1.1.1</title>
       <description><![CDATA[<p><strong>Bug Fixes</strong></p><ul><li>You can now enter a license key during your free trial: use the new "Enter Key" button under Settings → About → License, or "Enter License Key…" in the menu bar. Before this fix the key field only appeared after the trial ended.</li><li>License keys pasted with a trailing space or line break now activate correctly.</li></ul>]]></description>
       <sparkle:version>5</sparkle:version>
